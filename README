@@ -1,0 +1,11 @@
+INLINE ASM Source codes
+-----------------------
+
+A colletion of programs, that may help you to understand inline assembler with C, gcc and GNU as.
+
+A french tutorial about inline assembler: http://asm.developpez.com/cours/asminline/
+
+Copyright (C) 2016, Issam Abdallah
+website: http://issamabd.com
+Email: iabdallah@yandex.com
+
